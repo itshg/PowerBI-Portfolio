@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+scikit-learn
+gunicorn
+office365-rest-python-client
